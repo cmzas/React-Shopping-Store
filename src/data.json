@@ -1,0 +1,54 @@
+
+{
+    
+    "products":[
+        {
+            "_id":"dress1",
+            "title":"Dress 1",
+            "image":"https://wallpapercave.com/wp/wp4492287.jpg",
+            "description":"about dress 1",
+            "price":15,
+            "availableSizes":["X","M","L","XL","XXL"]
+        },
+        {
+            "_id":"dress2",
+            "title":"Dress 2",
+            "image":"https://wallpapercave.com/wp/wp8593518.jpg",
+            "description":"about dress 2",
+            "price":20,
+            "availableSizes":["X","M","L"]
+        },
+        {
+            "_id":"dress3",
+            "title":"Dress 3",
+            "image":"https://wallpapercave.com/wp/wp7956432.jpg",
+            "description":"about dress 3",
+            "price":25,
+            "availableSizes":["X","M","XXL"]
+        },
+        {
+            "_id":"dress4",
+            "title":"Dress 4",
+            "image":"https://wallpapercave.com/wp/wp7101027.jpg",
+            "description":"about dress 4",
+            "price":35,
+            "availableSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress5",
+            "title":"Dress 5",
+            "image":"https://wallpapercave.com/wp/wp8177782.jpg",
+            "description":"about dress 5",
+            "price":45,
+            "availableSizes":["X","M"]
+        },
+        {
+            "_id":"dress6",
+            "title":"Dress 6",
+            "image":"https://wallpapercave.com/wp/wp4021518.jpg",
+            "description":"about dress 6",
+            "price":55,
+            "availableSizes":["X","XL","XXL"]
+        }
+    ]
+}
