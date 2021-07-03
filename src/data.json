@@ -16,7 +16,7 @@
             "image":"https://wallpapercave.com/wp/wp8593518.jpg",
             "description":"about dress 2",
             "price":20,
-            "availableSizes":["X","M","L"]
+            "availableSizes":["XS","M","L"]
         },
         {
             "_id":"dress3",
