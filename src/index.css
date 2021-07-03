@@ -114,3 +114,14 @@ button{
 button:hover{
   background-color: rgba(235, 157, 13, 0.932);
 }
+/* filter */
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+  border-bottom: 1px solid rgb(211, 206, 206);
+}
+.filter div{
+  flex: 1;
+}
