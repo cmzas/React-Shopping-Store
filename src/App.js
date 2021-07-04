@@ -17,7 +17,7 @@ class App extends React.Component {
   }
   createOrder = (order) => {
     alert("Need to save order for " + order.name);
-    console.log(order);
+    console.log(order.cartItems);
   };
   //remove item
   removeFromCart = (product) => {
